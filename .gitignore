@@ -43,4 +43,4 @@ Temporary Items
 .apdisk
 
 # Python bytecode files
-.pyc
+*.pyc
