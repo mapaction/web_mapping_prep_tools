@@ -1,0 +1,225 @@
+Who-What-Where
+Admin
+Agriculture
+Camp Coordination / Management
+Education
+Elevation
+Environmental aspects
+Health 
+Imagery
+LandUse
+Logistics
+MapAction Geoprocessing data
+Nutrition 
+Physical
+Points of Interest
+Population
+Security Safety and Protection
+Early Recovery 
+Map_scans
+Emergency Shelter
+Situation and Damage
+Settlements
+Emergency Telecommunications
+Transport
+Search and Rescue / evacuation planning
+Utilities
+Water Sanitation and Hygiene
+polyline
+Point
+Polygon
+Raster
+Table
+TIN
+Unknown
+Web Feature Service
+Web Mapping Service
+Agriculture Cluster
+Alertnet
+Ambulance Service
+Advanced Spaceborne Thermal Emission and Reflection Radiometer
+Collins Bartholomew
+CCCM Cluster
+Early Recovery Cluster
+Consultative Group on International Agricultural Research
+Center for International Earth Science Information Network
+National civil defence source
+Deutsches Zentrum for Luft und Raumfahrt / German Aerospace Centre
+Emergency Shelter Cluster
+ESRI
+Emergency Communications Cluster
+European Digital Archive of Soil Maps
+Field Assessment and Coordination Team
+Flash Environmental Assessment Tool
+Fire Service
+GADM Global Administrative Areas
+Global Administrative Unit Layers
+Google Earth
+GeoEye
+Geographic Information Support Team
+Government - regional
+Government - local
+Government - national
+GPS
+Gridded Population of the World
+Global Rural-Urban Mapping Project
+Health Cluster
+Hazard Identification Tool
+Intergovernmental Authority on Develpoment
+INSARAG
+ISCGM Global Mapping
+J. de Ferranti DEMs (north of SRTM)
+Landsat Geocover
+LandScan
+Logs Cluster
+MapAction
+Mines Advisory Group
+Topo scans: Russian (MapStor)
+Merlin
+National meteorological service
+National military source
+Mix of data sources
+Moderate Resolution Imaging Spectroradiometer
+Medicins Sans Frontieres
+Navteq
+National Geospatial Intelligence Agency
+NGA Geonames gazetteer
+NGA shorelines
+National Oceanic and Atmospheric Administration
+Norwegion Peoples Aid
+Nutrition Cluster
+UN-OCHA 3W Database
+OpenStreetMap
+Oxfam
+Police Service
+Protection Cluster
+Second Administrative Level Boundaries
+Shuttle Radar Topography Mission
+Statoid: data on admin units
+The Nature Conservancy
+Tropical Rainfall Measuring Mission
+Telecom Sans Frontier
+UN Cartographic Section
+UN Disaster Assessment Coordination
+UN Development Program
+UN Department for Peacekeeping Operations
+UN Food and Agriculture Organisation
+UN-OCHA Field Information Services
+UNGIWG Core Geodatabase
+UN Humanitarian Information Centre
+UNICEF
+UN International Fund for Agricultural Development
+UN International Organization for Migration
+Unknown
+UN MineAction
+UNOCHA
+UNOSAT
+UN ReliefWeb
+UN-SDI-T
+UN World Food Programme
+UN World Health Organisation
+US Army Map Service
+USGS
+US National Hurricane Center
+Uni of Texas Perry-Castaneda Library Map Collection
+Vmap
+WASH Cluster 
+Word Database of Protected Areas
+Administrative boundary (various levels)
+Administrative boundary (level 0 natonal)
+Administrative boundary (level 1)
+Administrative boundary (level 2)
+Administrative boundary (level 3)
+Administrative boundary (level 4)
+Administrative boundary (level 5)
+Administrative boundary (level 6)
+Aerial photography
+Affected area
+Agriculture
+Airport / Airstrip
+Area of Interest
+Assessment route / location
+Building
+Bridge
+Bus station
+Canal
+Casualty number location
+Cemetery
+Clipping polygon / mask
+Continent boundary
+Contour
+Coastline
+Cultural region
+Dam
+Digital Elevation Model
+Warehouses / Distribution Centres
+Damage
+Digital Terrain Model
+Earthquake buffer
+School
+Environmental
+Epidemic
+Earthquake / Tsunami Epicentre
+Ethnic group
+Flood extents
+Fuel depot
+Geology
+Geophysical
+GPS survey
+Hazards
+Heliport
+Hospitals / Medical Centres
+Hill Shade
+UN Centres
+Highway
+IDP numbers
+Ikonos
+Irrigation
+Lakes
+Language distribution
+Lava flow
+Landcover
+Logistics
+Landsat
+MapBook Index Grids
+Medical facilities
+Military installations
+Mine fields
+Morgue and location for storage of dead
+Movements of Population
+Mine threat status (roads)
+NGO offices
+Pcode list
+Photo location
+Population distribution
+Seaport
+Power Station
+Power Line
+QuickBird
+Road
+Refugee location
+Reservoir
+River
+Railway / railroad
+Railway station
+Generic satellite imagery
+Security buffer
+Map scan
+Sea / Ocean
+Security status
+Shipping Hazards
+Shelter
+Sites of interest
+Landslide
+Soil
+Spot
+Spot heights
+Settlement (city town populated place)
+Mobile Telephone Coverage
+Volcano location
+Watershed
+Weather
+Water and sanitation
+Who / What / Where location
+A new theme
+Another new theme
